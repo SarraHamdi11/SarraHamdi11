@@ -154,13 +154,12 @@ Responsive business website with modern UI and mobile-friendly design.
 
 <div align="center">
 
-📍 Morocco
+📍 England 
 
-🌐 Portfolio: YOUR_PORTFOLIO_URL
+🌐 Portfolio: [YOUR_PORTFOLIO_URL](https://portfolio-liart-one.vercel.app/)
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
 
-📧 YOUR_EMAIL
+📧 hamdisaraa004@gmail.com
 
 <br>
 
